@@ -1,0 +1,21 @@
+h1, h3 {
+  text-align: center;
+}
+
+button {
+  text-align: center;
+
+}
+
+.container {
+  font-family: 'Indie Flower', cursive;
+  margin-top: 4%;
+}
+
+.button_wrapper{
+  text-align:center;
+}
+
+.image_wrapper{
+  text-align:center;
+}
