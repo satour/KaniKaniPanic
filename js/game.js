@@ -21,5 +21,4 @@ function count_down(){
 function hit(el){
   let cp = document.getElementById("point_o");
   cp.innerHTML = parseInt(cp.innerHTML, 10) + 1;;
-  console.log(el);
 };
