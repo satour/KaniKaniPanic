@@ -45,5 +45,5 @@ const KANI_DEKAI = `
 
 const BUTTON_REPLAY = `
   <div class="button_wrapper">
-    <button onclick="location.reload();">play agein</button>
+    <button onclick="location.reload();">PLAY AGAIN</button>
   </div>`;
