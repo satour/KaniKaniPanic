@@ -1,5 +1,3 @@
-let i = Math.random;
-
 let d1 = 'right';
 let d2 = 'right';
 let d3 = 'right';
